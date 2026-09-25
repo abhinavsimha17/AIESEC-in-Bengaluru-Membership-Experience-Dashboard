@@ -2,8 +2,6 @@
 
 A one-page interactive dashboard of the **Membership Experience Survey** I ran as Data Analyst for **AIESEC in Bengaluru** in April 2024. AIESEC is a youth leadership organisation, and the survey asked 99 members how they feel about their roles, wellbeing, community, team practices and future leadership plans.
 
-![Dashboard](dashboard.png)
-
 ## What the dashboard shows
 
 - **KPI cards:** number of responses, four experience scores and the Net Promoter Score (NPS)
